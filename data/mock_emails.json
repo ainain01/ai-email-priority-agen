@@ -1,0 +1,86 @@
+[
+  {
+    "id": "email_001",
+    "from": "billing@stripe.com",
+    "subject": "URGENT: Payment failed for your subscription",
+    "body": "Your payment of $299.00 for the Pro plan has failed. Please update your payment method within 24 hours to avoid service interruption. If you need help, contact support immediately.",
+    "timestamp": "2024-01-15T09:23:00Z"
+  },
+  {
+    "id": "email_002",
+    "from": "newsletter@medium.com",
+    "subject": "Your weekly digest is ready",
+    "body": "Here are the top stories this week: 1. Top 10 JavaScript tips. 2. How to meditate. 3. Travel guide to Europe.",
+    "timestamp": "2024-01-15T09:45:00Z"
+  },
+  {
+    "id": "email_003",
+    "from": "john.smith@client.com",
+    "subject": "CRITICAL: Production server is down!",
+    "body": "Our production server has been down for the past 30 minutes. The website is completely inaccessible and we are losing thousands of dollars per minute. Please respond IMMEDIATELY and escalate to your engineering team.",
+    "timestamp": "2024-01-15T10:02:00Z"
+  },
+  {
+    "id": "email_004",
+    "from": "no-reply@linkedin.com",
+    "subject": "You have 3 new connection requests",
+    "body": "Ahmed Ali, Sara Khan, and 1 other person want to connect with you on LinkedIn.",
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "email_005",
+    "from": "ceo@bigcorp.com",
+    "subject": "Partnership Proposal - Urgent Response Needed",
+    "body": "We are very interested in a $500,000 annual contract with your company. Our board meeting is tomorrow and we need your response by EOD today. Please call me directly.",
+    "timestamp": "2024-01-15T11:00:00Z"
+  },
+  {
+    "id": "email_006",
+    "from": "noreply@amazon.com",
+    "subject": "Your order has been shipped",
+    "body": "Your Amazon order #123-456 has been shipped and will arrive by Tuesday.",
+    "timestamp": "2024-01-15T11:20:00Z"
+  },
+  {
+    "id": "email_007",
+    "from": "angry.customer@gmail.com",
+    "subject": "COMPLAINT: Terrible service, demanding refund",
+    "body": "I have been a customer for 3 years and this is unacceptable. Your software deleted all my data. I want a full refund of $1200 and a formal apology. If I don't hear back in 2 hours I am filing a chargeback and posting a review on every platform.",
+    "timestamp": "2024-01-15T11:45:00Z"
+  },
+  {
+    "id": "email_008",
+    "from": "promo@couponsite.com",
+    "subject": "50% OFF - Today only! Flash sale!!!",
+    "body": "Incredible deals for you! Use code SAVE50 for 50% off everything. Shop now before it's too late!!!",
+    "timestamp": "2024-01-15T12:00:00Z"
+  },
+  {
+    "id": "email_009",
+    "from": "hr@yourcompany.com",
+    "subject": "Action Required: Security breach detected in your account",
+    "body": "Our security team has detected unauthorized login attempts on your company account from an unknown IP in Russia. Your account has been temporarily locked. Please verify your identity immediately by clicking the link and reset your password.",
+    "timestamp": "2024-01-15T12:30:00Z"
+  },
+  {
+    "id": "email_010",
+    "from": "alerts@aws.amazon.com",
+    "subject": "AWS Billing Alert: Unusual charges detected",
+    "body": "Your AWS bill has exceeded $5,000 this month, which is 300% above your usual spend. Unusual EC2 instances detected in us-east-1. Please review immediately to avoid a very large bill.",
+    "timestamp": "2024-01-15T13:00:00Z"
+  },
+  {
+    "id": "email_011",
+    "from": "team@slack.com",
+    "subject": "Weekly Slack activity summary",
+    "body": "Here's your Slack usage for last week: 234 messages sent, 12 channels active. Have a great week!",
+    "timestamp": "2024-01-15T13:30:00Z"
+  },
+  {
+    "id": "email_012",
+    "from": "legal@lawfirm.com",
+    "subject": "Legal Notice: Copyright Infringement Claim",
+    "body": "Our client has identified that your website contains copyrighted material. You are required to remove this content within 72 hours or face legal proceedings. Please contact our office immediately.",
+    "timestamp": "2024-01-15T14:00:00Z"
+  }
+]
