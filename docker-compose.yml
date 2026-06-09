@@ -1,0 +1,21 @@
+services:
+  email-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai-email-agent
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - db_data:/app/db
+      - ./data:/app/data:ro
+    environment:
+      - DATABASE_URL=sqlite:////app/db/email_agent.db
+      - PYTHONUNBUFFERED=1
+
+volumes:
+  db_data:
+    driver: local
